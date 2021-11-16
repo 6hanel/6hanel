@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lynn
 - 👀 I’m interested in Mobile Application 
-- 🌱 I’m currently learning JavaScript & React
+- 🌱 I’m currently learning Python, JavaScript & React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leelynn6hanel@gmail.com
 
